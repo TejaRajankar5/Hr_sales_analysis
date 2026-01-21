@@ -60,12 +60,12 @@ Suggested visuals for analysis:
 7. Department-wise Employee Count  
 
 Dashboards:
- **Salary & Department Analysis**
+ # Salary & Department Analysis
  <img width="1308" height="734" alt="HR Salary Analysis Dashboard" src="https://github.com/user-attachments/assets/b6da1a93-5f60-4e26-9251-8afa3ea74d60" />
 
  
-- **Employee Performance & Experience Insights**
-- <img width="1307" height="734" alt="Employee Performance Rating Dashboard" src="https://github.com/user-attachments/assets/342e8e02-fc08-4067-bee7-734da0bef8c6" />
+ # Employee Performance & Experience Insights
+<img width="1307" height="734" alt="Employee Performance Rating Dashboard" src="https://github.com/user-attachments/assets/342e8e02-fc08-4067-bee7-734da0bef8c6" />
 
 ---
 
