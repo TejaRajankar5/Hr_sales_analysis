@@ -1,6 +1,6 @@
 # 📊 HR Salary Analysis Project
 
-![hr image](https://github.com/TejaRajankar5/Hr_sales_analysis/edit/main/Hr Image.jpg)
+![hr image](https://github.com/TejaRajankar5/Hr_sales_analysis/edit/main/HrImage.jpg)
 
 ## 📌 Project Overview
 This project focuses on **analyzing HR salary data** to uncover insights related to employee compensation, experience, job roles, departments, and performance indicators.  
