@@ -1,6 +1,6 @@
 # 📊 HR Salary Analysis Project
 
-![Project image]()
+![Project image](Hr Image.jpg)
 
 ## 📌 Project Overview
 This project focuses on **analyzing HR salary data** to uncover insights related to employee compensation, experience, job roles, departments, and performance indicators.  
